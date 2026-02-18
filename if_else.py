@@ -5,3 +5,5 @@ elif gender == "f" or gender == "F" :
     print("hii maam")
 else:
     print("preferd not to say")
+
+#if the gender is "m" it  will generate o/p as hii sir 
